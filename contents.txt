@@ -1,0 +1,45 @@
+# Any line followed by a '#' character is ignored
+# Section headings must be in square brackets
+# Subsections within a section should follow the format:      
+#   [filename within code directory][tab character     ][subsection title]
+# tab character:
+
+[Buscas]
+Buscas/bs1.cpp  bs1
+Buscas/bs2.cpp  bs2
+Buscas/MeetInTheMiddle.cpp    MeetInTheMiddle
+Buscas/Queens.cpp       Queens 
+
+[Geometria]
+Geometria/ConvexHull.cpp      ConvexHull
+Geometria/Hurricane.cpp Hurricane
+Geometria/PointLocation.cpp   PointLocation
+Geometria/Triangulo.cpp Triangulo
+
+[Grafos]
+Grafos/backtrack.dfs.cpp      backtrack
+Grafos/BFS.cpp  BFS
+Grafos/BFSGRid.cpp      BFSGRid
+Grafos/Bicoloridade.cpp Bicoloridade
+Grafos/CycleDetection.cpp     CycleDetection
+Grafos/DFS.cpp  DFS
+Grafos/DFS2.cpp DFS2
+Grafos/dijestados.cpp   dijestados
+Grafos/dijestados2.cpp  dijestados2
+Grafos/dijkstra.cpp     dijkstra
+Grafos/DSU.cpp  DSU
+Grafos/floyd.cpp        floyd  
+Grafos/MaxNodeDistance.cpp    MaxNodeDistance
+Grafos/prim.cpp prim
+Grafos/Toposort.cpp     Toposort
+
+[Others]
+
+[Range Query]
+Range/Fenwicktree.cpp   Fenwicktree
+Range/PrefixSum2d.cpp   PrefixSum2d
+Range/segtree.cpp segtree
+[Teoria dos numeros]
+TeoriaDosNumeros/combinatoria.cpp    combinatoria       
+TeoriaDosNumeros/crivo.cpp  crivo
+TeoriaDosNumeros/inversomodular.cpp  inversomodular
